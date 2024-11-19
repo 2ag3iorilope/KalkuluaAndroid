@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulua</string>
+    <string name="HintTestua">Sartu zure izena</string>
+    <string name="BtnKalkulatu">Kalkulatu</string>
+    <string name="BtnIrten">Irten</string>
+    <string name="TxtZenbakia">Zenbakia:</string>
+    <string name="TxtEmaitza">Emaitza:</string>
+    <string name="BtnBidertu">Bidertu x2</string>
+</resources>
